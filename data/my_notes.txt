@@ -1,0 +1,1 @@
+The RAG project is progressing well. Our primary goal is to build a Q&A bot for internal company policies. The first step is data ingestion.

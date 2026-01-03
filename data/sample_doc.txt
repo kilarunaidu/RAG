@@ -1,0 +1,5 @@
+
+RAG is a powerful AI technique. It combines retrieval with generation.
+Vector databases like ChromaDB are essential for storing the vectorized knowledge.
+The key steps are loading, chunking, embedding, and storing.
+This process allows LLMs to access external, up-to-date information.
