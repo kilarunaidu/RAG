@@ -1,2 +1,22 @@
-.env
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
 venv/
+.env
+
+# RAG specific - Vector Databases
+chroma_db/
+my_rag_db/
+*.db
+*.sqlite
+
+# Data and Documents (often too large for GitHub)
+data/
+*.pdf
+*.txt
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
